@@ -1,0 +1,2 @@
+# 12-TipDonusumleri
+Veri tipler arasında dönüşüm yapmak için kullanılır. Örnek vermemiz gerekirse C# programlama dilinde string ifadeler “çift tırnak” arasında yazılır. Aynı zamanda “23” de bir string ifadedir. Ama 23 aynı zamanda bir sayıdır. 23 ifadesini çift tırnak içerisine aldığımızda string ifade elde etmiş oluruz. Ancak biz 23 sayısını bir matematiksel işleme tabi tutacağımız zaman, 23 değerini sayı olarak elde etmeliyiz.
